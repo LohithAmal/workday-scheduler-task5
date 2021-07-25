@@ -14,3 +14,12 @@ once form feild filled entries will be stored to local storage.
 
 ##INSTALLATION
 User can run this application on the browser (google chrome recommended)
+
+## REFRENCE AND ACKNOWLEDGEMENT
+### CODE IDEAS AND FUNCTIONALITY REFERENCE FROM :
+
+https://www.youtube.com/watch?v=n80RRNS1k64
+https://stackoverflow.com/
+https://github.com/jamierachael/Day-Planner
+https://www.youtube.com/watch?v=VtiWrNj94Mk
+
