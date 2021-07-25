@@ -24,3 +24,4 @@ https://github.com/jamierachael/Day-Planner
 https://www.youtube.com/watch?v=VtiWrNj94Mk
 
 ## GitHub repository link : https://github.com/LohithAmal/workday-scheduler-task5
+## live deployed link :  https://lohithamal.github.io/workday-scheduler-task5/
